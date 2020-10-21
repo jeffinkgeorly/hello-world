@@ -1,2 +1,2 @@
 # hello-world
-this repository is part of the tutorial 'Data Science : foundation using R' connducted by Coursera. The repository can be a place where you store ideas, resources, or even share and discuss things with others.
+This repository is created as a part of the tutorial 'Data Science : Foundation using R' connducted by Coursera. This repository can be a place where you can store ideas, resources, or even share and discuss things with others.
